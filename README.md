@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👨‍💻 About Me
+Hello! I'm Andrii Svatyk, a passionate Full Stack Developer with expertise in building dynamic, responsive web applications. I love creating software that is both functional and user-friendly. I am constantly learning and improving my skills to stay up-to-date with the latest technologies in web development.
 
-<!--
-**AndriiSvatyk/AndriiSvatyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Technologies & Tools
 
-Here are some ideas to get you started:
+### Frontend:
+- JavaScript (React, Vue.js, Angular)
+- HTML5, CSS3, SASS, LESS
+- TypeScript
+- Tailwind CSS, Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend:
+- Node.js, Express.js
+- Python (Django, Flask)
+- PHP (Laravel)
+- Ruby on Rails
+- RESTful APIs & GraphQL
+
+### Database:
+- MySQL, PostgreSQL, MongoDB
+- Firebase, Redis
+- SQLite
+
+### DevOps & Tools:
+- Docker, Kubernetes
+- Git, GitHub, GitLab
+- CI/CD (Jenkins, Travis CI)
+- AWS, Google Cloud, Heroku
+
+### Other:
+- Agile Development & Scrum
+- Test-Driven Development (TDD)
+- Webpack, Babel, Gulp
+
+## 📈 GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+---
