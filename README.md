@@ -34,6 +34,6 @@ Hello! I'm Andrii Svatyk, a passionate Full Stack Developer with expertise in bu
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndriiSvatyk&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
