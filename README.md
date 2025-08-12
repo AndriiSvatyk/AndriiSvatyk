@@ -8,6 +8,7 @@ Hello! I'm Andrii Svatyk, a passionate Full Stack Developer with expertise in bu
 - HTML5, CSS3, SASS, LESS
 - TypeScript
 - Tailwind CSS, Bootstrap
+- CMS (Wordpress, Shopify, Magento)
 
 ### Backend:
 - Node.js, Express.js
